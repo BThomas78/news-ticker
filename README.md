@@ -35,5 +35,6 @@ All sources are consumed via their **public RSS feeds**.
 
 ## 🌐 Live Site (GitHub Pages)
 
-Once deployed, the site is available at:
+Once deployed, the site is available at: https://bthomas78.github.io/news-ticker/
+
 
